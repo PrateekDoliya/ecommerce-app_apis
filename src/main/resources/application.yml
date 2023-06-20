@@ -1,0 +1,13 @@
+server:
+  port: 8081
+#spring:
+#  data:
+#    mongodb:
+#      host: localhost
+#      port: 27017
+#      database: ecommerce_project
+
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://prateekdoliya0:ecommerce@cluster0.rnze45a.mongodb.net/ecommerce
